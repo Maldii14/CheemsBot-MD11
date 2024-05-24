@@ -7,7 +7,7 @@
 //WhatsApp: +254104567966
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
-const fs = require('fs')
+const fs = require('fs') 
 const chalk = require('chalk')
 
 //session
