@@ -1,7 +1,7 @@
 {
-    "name": "Cheems-Bot-MD",
+    "name": "Vinta-Bot-MD",
     "version": "11.0.0",
-    "description": "Whatsapp Bot By DGXeon",
+    "description": "Whatsapp Bot By VINTA",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "vinta 💌",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
