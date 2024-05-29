@@ -20,7 +20,7 @@ global.location = "Kenya, Nairobi, Eldoret " //ur location
 
 //new
 global.botname = 'x Bot ' //ur bot name
-global.ownernumber = '254104567966' //ur owner number
+global.ownernumber = '25779328985' //ur owner number
 global.ownername = 'vivian' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
@@ -28,10 +28,10 @@ global.themeemoji = '🎁'
 global.wm = "x Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "x bot\n\n+254104567966"
-global.creator = "254104567966@s.whatsapp.net"
+global.author = "x bot\n\n25779328985"
+global.creator = "25779328985@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254104567966"] // Premium User
+global.premium = ["25779328985"] // Premium User
 global.hituet = 33
 
 //bot sett
