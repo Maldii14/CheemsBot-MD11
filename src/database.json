@@ -1,6 +1,6 @@
 {
   "users": {
-    "918798308154@s.whatsapp.net": {
+    "25779328985@s.whatsapp.net": {
       "serialNumber": "0eae1af5145d445f4e7a69739aa2e971",
       "title": "Premium",
       "afkTime": -1,
@@ -11,14 +11,14 @@
       "limit": 1000,
       "totalLimit": 0
     },
-    "919366316018@s.whatsapp.net": {
+    "254758732775@s.whatsapp.net": {
       "serialNumber": "84a6d900b59ff9b86da982ae409f5973",
       "title": "Premium",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
       "nick": "Oke",
-      "premium": false,
+      "premium": true,
       "limit": 1000,
       "totalLimit": 0
     },
@@ -58,11 +58,11 @@
   },
   "database": {},
   "chats": {
-    "120363047626537933@g.us": {
+    "25779328985@g.us": {
       "badword": false,
       "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
+      "antibot": true,
+      "antiviewonce": true,
       "antivirtex": false,
       "antimedia": false,
       "antiimage": false,
@@ -73,7 +73,7 @@
       "antilocation": false,
       "antidocument": false,
       "anticontact": false,
-      "antilink": false,
+      "antilink": true,
       "antilinkgc": false
     },
     "919366316018@s.whatsapp.net": {
