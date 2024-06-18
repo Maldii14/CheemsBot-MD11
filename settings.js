@@ -2,9 +2,9 @@
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
-//Telegram: t.me/vintavivian 
+//Telegram: t.me/Maldives_mak
 //GitHub: @maldii14
-//WhatsApp: +254104567966
+//WhatsApp: +254758732775
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs') 
@@ -14,25 +14,25 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: venon" //ur yt chanel name
+global.ytname = "YT: venom" //ur yt chanel name
 global.socialm = "GitHub: maldii14" //ur github or insta name
 global.location = "Kenya, Nairobi, Eldoret " //ur location
 
 //new
 global.botname = 'x Bot ' //ur bot name
-global.ownernumber = '254757051225' //ur owner number
-global.ownername = 'vivian' //ur owner name
+global.ownernumber = '254758732775' //ur owner number
+global.ownername = 'maldii' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaWrCuH35fLuVP2iCc2R"
 global.themeemoji = '🎁'
 global.wm = "x Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "x bot\n\n254757051225"
-global.creator = "254757051225@s.whatsapp.net"
+global.author = "x bot\n\n254758732775"
+global.creator = "254758732775@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254757051225"] // Premium User
-global.hituet = 33
+global.premium = ["254758732775"] // Premium User
+global.hituet = 33000
 
 //bot sett
 global.typemenu = 'v8' // menu type 'v1' => 'v8'
